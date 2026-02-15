@@ -1,0 +1,4 @@
+Hold click 
+white outline its weak when red its one shot
+-------------------------------------------------
+require(4559977647).load("YourUsername")

@@ -1,0 +1,9 @@
+Controls (PC ONLY)
+-------------------------------------------
+Q - Left Kick
+E - Right Kick
+F - Block
+R - Counter
+Click - Hit
+-------------------------------------------
+require(15627085040).RAroblox("YourUsername")
