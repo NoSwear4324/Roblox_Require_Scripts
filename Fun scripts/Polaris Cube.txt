@@ -1,0 +1,20 @@
+Cube have 4 total variants
+for Q ability and E use your mouse
+E ability is same for all variants
+--------------------------------------
+Controls
+--------------White Cube (DEFAULT)-----------
+P - To get this variant
+Q - I dont know it refresh charater skin tone
+E - To remove character part (use mouse to aim and then use ability)
+--------------Cyan Cube (DMG)---------------
+B - To get this variant
+Q - Make big cube and do dmg inside cube
+--------------Green Cube (HEAL)---------------
+N - To get this variant
+Q - Same like dmg but it heals
+--------------Black Cube (I guess like white but black)---------------
+M - To get this variant
+Q - Just make big same cube do nothing i guess
+----------------------------------------------
+require(6583577614).load("YourNameHere")
