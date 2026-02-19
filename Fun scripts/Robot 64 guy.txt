@@ -1,3 +1,0 @@
-Controls like in original game
----------------------------------------
-require(136692521454263)("YourUsername")
