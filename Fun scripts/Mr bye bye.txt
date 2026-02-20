@@ -1,0 +1,6 @@
+Controls
+Left click - stomp, use gun
+F - equip gun
+C - setup beartrap
+
+require(6515226671).load("YourNameHere")
