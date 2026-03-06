@@ -1,1 +1,3 @@
+Q - crouch(just crouch not like in game)
+
 require(15581949972).mc("yourusername")
