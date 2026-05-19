@@ -1,1 +1,0 @@
-require(123509624766470).Killdroid("name")
