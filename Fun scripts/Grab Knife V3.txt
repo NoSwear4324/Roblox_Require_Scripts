@@ -1,1 +1,16 @@
 require(2829943043):Run('Your Roblox Username','i baked you a pie')
+================CONTROLS================
+X = STAB MODE
+C = THROW MODE
+V = EXPLODE MODE
+B = MOLOTOV MODE
+M = PSYCHOPATH MODE
+G = FINISH MODE
+H = FIREWORK MODE
+K = kill y....
+R = PARALYSE MODE
+Q = RELEASE MODE
+--------------------------------------------------
+N = ZOMBIE MODE ON
+T = ZOMBIE TARGET SET/REMOVE
+Y = TERMINATE ZOMBIES
